@@ -6,7 +6,7 @@ const Home = () => {
 
       <div class="presentacion">
       <div className="container-cv">
-        <a href="https://drive.google.com/file/d/1l16DaAHHhgVpSSRlYutLGOSy3BSfgkMZ/view?usp=sharing" className="title-cv">cv</a>
+        <a href="https://drive.google.com/file/d/13gRMvUUBb3a2uAjPuHvpun_gXNwX5uKh/view?usp=sharing" className="title-cv">cv</a>
       </div>
         <h1>Lucas Navarro</h1>
         <h4>System Technician</h4>

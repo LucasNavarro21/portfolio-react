@@ -13,26 +13,26 @@ const Portfolio = () => {
           <div className="container-proyectos-fila-1">
 
             <div className="container-proyecto">
-              <img src={imgJS} alt="" className="image-proyecto" />
+              {/* <img src={imgJS} alt="" className="image-proyecto" /> */}
               <a href="https://lucasnavarro21.github.io/encriptador/" className='title-proyecto'>Encryptor</a>
             </div>
         
         
             <div className="container-proyecto">
-              <img src={imgPHP} alt="" className="image-proyecto" />
+              {/* <img src={imgPHP} alt="" className="image-proyecto" /> */}
               <a href="https://github.com/LucasNavarro21/asistencia" className='title-proyecto'>Crud PHP</a>
             </div>
           </div>
 
           <div className="container-proyectos-fila-1">
             <div className="container-proyecto">
-              <img src={imgExcel} alt="" className="image-proyecto" />
-              <a href="http://enterprisedata.22web.org/index.php?i=2" className='title-proyecto'>Data Filter</a>
+              {/* <img src={imgExcel} alt="" className="image-proyecto" /> */}
+              <a href="https://pair-drop-codigo-jc9xfs.flutterflow.app/" className='title-proyecto'>P2P File Transfer App</a>
             </div>
 
             <div className="container-proyecto">
-              <img src={imgPHP} alt="" className="image-proyecto" />
-              <a href="https://github.com/LucasNavarro21/todoapp" className='title-proyecto'>Task list</a>
+              {/* <img src={imgPHP} alt="" className="image-proyecto" /> */}
+              <a href="https://github.com/LucasNavarro21/forohub" className='title-proyecto'>Forohub</a>
             </div>
           </div>
 
