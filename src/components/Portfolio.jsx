@@ -20,14 +20,14 @@ const Portfolio = () => {
         
             <div className="container-proyecto">
               {/* <img src={imgPHP} alt="" className="image-proyecto" /> */}
-              <a href="https://github.com/LucasNavarro21/asistencia" className='title-proyecto'>Crud PHP</a>
+              <a href="https://pair-drop-codigo-jc9xfs.flutterflow.app/" className='title-proyecto'>P2P FILE TRANSFER APP</a>
             </div>
           </div>
 
           <div className="container-proyectos-fila-1">
             <div className="container-proyecto">
               {/* <img src={imgExcel} alt="" className="image-proyecto" /> */}
-              <a href="https://pair-drop-codigo-jc9xfs.flutterflow.app/" className='title-proyecto'>P2P File Transfer App</a>
+              <a href="https://github.com/LucasNavarro21/PFinalComidaApp" className='title-proyecto'>Food order app</a>
             </div>
 
             <div className="container-proyecto">
